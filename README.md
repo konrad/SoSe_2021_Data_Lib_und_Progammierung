@@ -1,3 +1,5 @@
-# SoSe_2021_Data_Lib_und_Progammierung
+# SoSe 2021 - Data Lib und Progammierung
 
 Konrad Förstner
+
+In diesem Repo werden u.a. Jupyter Notebooks gesammelt.
