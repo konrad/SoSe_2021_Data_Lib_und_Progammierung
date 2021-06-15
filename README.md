@@ -1,4 +1,4 @@
-# SoSe 2021 - Data Lib und Progammierung
+# SoSe 2021 - Data Lib und Programmierung
 
 Konrad Förstner
 
